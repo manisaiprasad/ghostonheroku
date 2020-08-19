@@ -147,7 +147,7 @@ release: knex-migrator migrate --mgpath node_modules/ghost
 
 ## Problems?
 
-If you have problems using your instance of Ghost, you should check the [official documentation](http://support.ghost.org/) or open an issue on [the official issue tracker](https://github.com/TryGhost/Ghost/issues). If you discover an issue with the deployment process provided by *this repository*, then [open an issue here](https://github.com/manisaiprasad/ghostonheroku).
+If you have problems using your instance of Ghost, you should check the [official documentation](http://support.ghost.org/) or open an issue on [the official issue tracker](https://github.com/TryGhost/Ghost/issues). If you discover an issue with the deployment process provided by *this repository*, then [open an issue here](https://github.com/manisaiprasad/ghostonheroku/issues/new).
 
 ## License
 
